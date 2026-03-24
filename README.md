@@ -1,6 +1,13 @@
 # NPC-Bench
 Below is the full set of questions included in NPC-Bench. 
-These can be used to assess any LLM-powered NPCs within a fantasy world setting. The benchmark was originally created and tested on the game "The Elder Scrolls V: Skyrim".
+
+Please see the paper : Joe Gilligan, Ethan Smyth, Lifan Xuan, Yang Hong, Jiangwei Xie, Ben Stobie & Oliver Lemon , "NPC-Bench: A Benchmark Dataset for Immersion and Safety of Generative AI for Non-player Characters" 2026
+
+The full paper is available at : https://link.springer.com/chapter/10.1007/978-3-032-07938-1_17 
+
+Full citation: Gilligan, J. et al. (2026). NPC-Bench: A Benchmark Dataset for Immersion and Safety of Generative AI for Non-player Characters. In: Hart, E., Horvath, T., Tan, Z., Thomson, S. (eds) Advances in Computational Intelligence Systems. UKCI 2025. Advances in Intelligent Systems and Computing, vol 1468. Springer, Cham. https://doi.org/10.1007/978-3-032-07938-1_17
+
+These questions can be used to assess any LLM-powered NPCs within a fantasy world setting. The benchmark was originally created and tested on the game "The Elder Scrolls V: Skyrim".
 
 The first section "Game World Knowledge" assesses the agent's knowledge of the world which they find themselves in. 
 To perform well in this section the agent will have to be aware of the world while also not going into details which it would be unreasonable for their character to know.
